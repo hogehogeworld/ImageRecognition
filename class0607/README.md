@@ -1,4 +1,4 @@
-#### 前処理なしの結果
+## 前処理なしの結果
 
 ```python
 KNN
@@ -16,16 +16,12 @@ KNN
 部分空間法
 	Elapsed time is 0.385812 seconds.
 	accuracy=94.90
-レオマハラノビス距離
+マハラノビス距離
 	Elapsed time is 2.457265 seconds.
-	accuracy=82.40
-Trial>> fissher
-ユークリッド距離
-	Elapsed time is 0.113762 seconds.
 	accuracy=82.40
 ```
 
-#### 前処理ありの結果
+## 前処理ありの結果
 
 フィッシャーの多重判別分析で次元を落としたのちに、分類した結果
 
